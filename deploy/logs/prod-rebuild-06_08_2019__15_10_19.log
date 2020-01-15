@@ -1,4 +1,0 @@
-Time is 06_08_2019__15_10_19
-Drupal Root is /var/www/vhosts/automotive-verpackung.de/fixier-verpackung/web
-fatal: Not a git repository (or any of the parent directories): .git
-./prod-rebuild.sh: Zeile 113: composer: Kommando nicht gefunden.
